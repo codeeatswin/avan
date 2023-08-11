@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/avan/static/css/main.b4304fe5.css",
+    "main.js": "/avan/static/js/main.bbbb0964.js",
+    "index.html": "/avan/index.html",
+    "main.b4304fe5.css.map": "/avan/static/css/main.b4304fe5.css.map",
+    "main.bbbb0964.js.map": "/avan/static/js/main.bbbb0964.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4304fe5.css",
+    "static/js/main.bbbb0964.js"
+  ]
+}
